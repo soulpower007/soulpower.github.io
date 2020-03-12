@@ -4,6 +4,8 @@
 	<title>WHATTT</title>
 </head>
 <body>
-<H1>WWORKSSSS</H1>
+<H1>WWORKSSSS
+$ git remote add origin https://github.com/soulpower007/soulpower.github.io.git
+</H1>
 </body>
 </html>
